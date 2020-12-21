@@ -1,9 +1,10 @@
 ---
 title: Belted Kingfisher
-subtitle: Megaceryle alcyon
 ---
 
-The population size of Belted Kingfisher (<div>Martin-p&amp;ecirc;cheur d'Am&amp;eacute;rique</div>) in the Ring of Fire region was 0.172 (0.128, 0.239) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+<h2>Megaceryle alcyon (<em>Martin-p&amp;ecirc;cheur d'Am&amp;eacute;rique</em>)</h2>
+
+The population size of Belted Kingfisher in the Ring of Fire region was 0.172 (0.128, 0.239) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

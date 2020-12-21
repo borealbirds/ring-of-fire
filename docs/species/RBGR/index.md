@@ -1,9 +1,10 @@
 ---
 title: Rose-breasted Grosbeak
-subtitle: Pheucticus ludovicianus
 ---
 
-The population size of Rose-breasted Grosbeak (<div>Cardinal &amp;agrave; poitrine rose</div>) in the Ring of Fire region was 0.267 (0.203, 0.326) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+<h2>Pheucticus ludovicianus (<em>Cardinal &amp;agrave; poitrine rose</em>)</h2>
+
+The population size of Rose-breasted Grosbeak in the Ring of Fire region was 0.267 (0.203, 0.326) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

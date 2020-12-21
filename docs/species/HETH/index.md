@@ -1,9 +1,10 @@
 ---
 title: Hermit Thrush
-subtitle: Catharus guttatus
 ---
 
-The population size of Hermit Thrush (<div>Grive solitaire</div>) in the Ring of Fire region was 6.089 (5.674, 6.542) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+<h2>Catharus guttatus (<em>Grive solitaire</em>)</h2>
+
+The population size of Hermit Thrush in the Ring of Fire region was 6.089 (5.674, 6.542) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

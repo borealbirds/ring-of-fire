@@ -1,9 +1,10 @@
 ---
 title: Le Conte's Sparrow
-subtitle: Ammodramus leconteii
 ---
 
-The population size of Le Conte's Sparrow (<div>Bruant de Le Conte</div>) in the Ring of Fire region was 0.115 (0.064, 0.154) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+<h2>Ammodramus leconteii (<em>Bruant de Le Conte</em>)</h2>
+
+The population size of Le Conte's Sparrow in the Ring of Fire region was 0.115 (0.064, 0.154) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

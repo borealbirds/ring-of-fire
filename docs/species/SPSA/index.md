@@ -1,9 +1,10 @@
 ---
 title: Spotted Sandpiper
-subtitle: Actitis macularius
 ---
 
-The population size of Spotted Sandpiper (<div>Chevalier grivel&amp;eacute;</div>) in the Ring of Fire region was 0.162 (0.061, 0.309) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+<h2>Actitis macularius (<em>Chevalier grivel&amp;eacute;</em>)</h2>
+
+The population size of Spotted Sandpiper in the Ring of Fire region was 0.162 (0.061, 0.309) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

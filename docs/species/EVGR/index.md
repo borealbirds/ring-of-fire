@@ -1,9 +1,10 @@
 ---
 title: Evening Grosbeak
-subtitle: Coccothraustes vespertinus
 ---
 
-The population size of Evening Grosbeak (<div>Gros-bec errant</div>) in the Ring of Fire region was 0.864 (0.549, 1.319) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+<h2>Coccothraustes vespertinus (<em>Gros-bec errant</em>)</h2>
+
+The population size of Evening Grosbeak in the Ring of Fire region was 0.864 (0.549, 1.319) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

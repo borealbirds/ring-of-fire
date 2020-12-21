@@ -1,9 +1,10 @@
 ---
 title: Northern Parula
-subtitle: Setophaga americana
 ---
 
-The population size of Northern Parula (<div>Paruline &amp;agrave; collier</div>) in the Ring of Fire region was 0.335 (0.259, 0.408) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+<h2>Setophaga americana (<em>Paruline &amp;agrave; collier</em>)</h2>
+
+The population size of Northern Parula in the Ring of Fire region was 0.335 (0.259, 0.408) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

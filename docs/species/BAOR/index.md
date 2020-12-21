@@ -1,9 +1,10 @@
 ---
 title: Baltimore Oriole
-subtitle: Icterus galbula
 ---
 
-The population size of Baltimore Oriole (<div>Oriole de Baltimore</div>) in the Ring of Fire region was 0.006 (0, 0.015) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+<h2>Icterus galbula (<em>Oriole de Baltimore</em>)</h2>
+
+The population size of Baltimore Oriole in the Ring of Fire region was 0.006 (0, 0.015) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

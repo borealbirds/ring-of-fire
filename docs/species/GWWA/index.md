@@ -1,9 +1,10 @@
 ---
 title: Golden-winged Warbler
-subtitle: Vermivora chrysoptera
 ---
 
-The population size of Golden-winged Warbler (<div>Paruline &amp;agrave; ailes dor&amp;eacute;es</div>) in the Ring of Fire region was 0.004 (0, 0.012) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+<h2>Vermivora chrysoptera (<em>Paruline &amp;agrave; ailes dor&amp;eacute;es</em>)</h2>
+
+The population size of Golden-winged Warbler in the Ring of Fire region was 0.004 (0, 0.012) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

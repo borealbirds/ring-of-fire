@@ -1,9 +1,10 @@
 ---
 title: Sedge Wren
-subtitle: Cistothorus platensis
 ---
 
-The population size of Sedge Wren (<div>Troglodyte &amp;agrave; bec court</div>) in the Ring of Fire region was 0.084 (0.058, 0.109) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+<h2>Cistothorus platensis (<em>Troglodyte &amp;agrave; bec court</em>)</h2>
+
+The population size of Sedge Wren in the Ring of Fire region was 0.084 (0.058, 0.109) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

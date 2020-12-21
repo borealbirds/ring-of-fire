@@ -1,9 +1,10 @@
 ---
 title: Gray Jay
-subtitle: Perisoreus canadensis
 ---
 
-The population size of Gray Jay (<div>M&amp;eacute;sangeai du Canada</div>) in the Ring of Fire region was 6.904 (6.067, 7.917) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+<h2>Perisoreus canadensis (<em>M&amp;eacute;sangeai du Canada</em>)</h2>
+
+The population size of Gray Jay in the Ring of Fire region was 6.904 (6.067, 7.917) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

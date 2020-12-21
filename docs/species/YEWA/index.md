@@ -1,9 +1,10 @@
 ---
 title: Yellow Warbler
-subtitle: Setophaga petechia
 ---
 
-The population size of Yellow Warbler (<div>Paruline jaune</div>) in the Ring of Fire region was 6.834 (5.836, 7.747) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+<h2>Setophaga petechia (<em>Paruline jaune</em>)</h2>
+
+The population size of Yellow Warbler in the Ring of Fire region was 6.834 (5.836, 7.747) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

@@ -1,9 +1,10 @@
 ---
 title: Orange-crowned Warbler
-subtitle: Oreothlypis celata
 ---
 
-The population size of Orange-crowned Warbler (<div>Paruline verd&amp;acirc;tre</div>) in the Ring of Fire region was 1.158 (0.903, 1.519) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+<h2>Oreothlypis celata (<em>Paruline verd&amp;acirc;tre</em>)</h2>
+
+The population size of Orange-crowned Warbler in the Ring of Fire region was 1.158 (0.903, 1.519) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

@@ -1,9 +1,10 @@
 ---
 title: Brown Thrasher
-subtitle: Toxostoma rufum
 ---
 
-The population size of Brown Thrasher (<div>Moqueur roux</div>) in the Ring of Fire region was 0.004 (0, 0.013) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+<h2>Toxostoma rufum (<em>Moqueur roux</em>)</h2>
+
+The population size of Brown Thrasher in the Ring of Fire region was 0.004 (0, 0.013) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

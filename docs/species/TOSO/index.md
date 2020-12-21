@@ -1,9 +1,10 @@
 ---
 title: Townsend's Solitaire
-subtitle: Myadestes townsendi
 ---
 
-The population size of Townsend's Solitaire (<div>Solitaire de Townsend</div>) in the Ring of Fire region was 0 (0, 0) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+<h2>Myadestes townsendi (<em>Solitaire de Townsend</em>)</h2>
+
+The population size of Townsend's Solitaire in the Ring of Fire region was 0 (0, 0) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

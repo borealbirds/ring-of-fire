@@ -1,9 +1,10 @@
 ---
 title: Least Flycatcher
-subtitle: Empidonax minimus
 ---
 
-The population size of Least Flycatcher (<div>Moucherolle tch&amp;eacute;bec</div>) in the Ring of Fire region was 5.113 (4.43, 5.644) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+<h2>Empidonax minimus (<em>Moucherolle tch&amp;eacute;bec</em>)</h2>
+
+The population size of Least Flycatcher in the Ring of Fire region was 5.113 (4.43, 5.644) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

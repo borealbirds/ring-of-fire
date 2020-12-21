@@ -1,9 +1,10 @@
 ---
 title: Blue Jay
-subtitle: Cyanocitta cristata
 ---
 
-The population size of Blue Jay (<div>Geai bleu</div>) in the Ring of Fire region was 0.46 (0.375, 0.558) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+<h2>Cyanocitta cristata (<em>Geai bleu</em>)</h2>
+
+The population size of Blue Jay in the Ring of Fire region was 0.46 (0.375, 0.558) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

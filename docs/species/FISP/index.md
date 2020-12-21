@@ -1,9 +1,10 @@
 ---
 title: Field Sparrow
-subtitle: Spizella pusilla
 ---
 
-The population size of Field Sparrow (<div>Bruant des champs</div>) in the Ring of Fire region was 0.001 (0, 0.006) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+<h2>Spizella pusilla (<em>Bruant des champs</em>)</h2>
+
+The population size of Field Sparrow in the Ring of Fire region was 0.001 (0, 0.006) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

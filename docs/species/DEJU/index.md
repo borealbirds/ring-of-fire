@@ -1,9 +1,10 @@
 ---
 title: Dark-eyed Junco
-subtitle: Junco hyemalis
 ---
 
-The population size of Dark-eyed Junco (<div>Junco ardois&amp;eacute;</div>) in the Ring of Fire region was 13.051 (12.087, 14.096) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+<h2>Junco hyemalis (<em>Junco ardois&amp;eacute;</em>)</h2>
+
+The population size of Dark-eyed Junco in the Ring of Fire region was 13.051 (12.087, 14.096) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

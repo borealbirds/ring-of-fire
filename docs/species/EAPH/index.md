@@ -1,9 +1,10 @@
 ---
 title: Eastern Phoebe
-subtitle: Sayornis phoebe
 ---
 
-The population size of Eastern Phoebe (<div>Moucherolle ph&amp;eacute;bi</div>) in the Ring of Fire region was 0.123 (0.087, 0.166) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+<h2>Sayornis phoebe (<em>Moucherolle ph&amp;eacute;bi</em>)</h2>
+
+The population size of Eastern Phoebe in the Ring of Fire region was 0.123 (0.087, 0.166) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

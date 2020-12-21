@@ -1,9 +1,10 @@
 ---
 title: Red-winged Blackbird
-subtitle: Agelaius phoeniceus
 ---
 
-The population size of Red-winged Blackbird (<div>Carouge &amp;agrave; &amp;eacute;paulettes</div>) in the Ring of Fire region was 0.995 (0.854, 1.133) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+<h2>Agelaius phoeniceus (<em>Carouge &amp;agrave; &amp;eacute;paulettes</em>)</h2>
+
+The population size of Red-winged Blackbird in the Ring of Fire region was 0.995 (0.854, 1.133) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

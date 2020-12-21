@@ -1,9 +1,10 @@
 ---
 title: American Goldfinch
-subtitle: Spinus tristis
 ---
 
-The population size of American Goldfinch (<div>Chardonneret jaune</div>) in the Ring of Fire region was 1.155 (0.989, 1.395) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+<h2>Spinus tristis (<em>Chardonneret jaune</em>)</h2>
+
+The population size of American Goldfinch in the Ring of Fire region was 1.155 (0.989, 1.395) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

@@ -1,9 +1,10 @@
 ---
 title: Golden-crowned Kinglet
-subtitle: Regulus satrapa
 ---
 
-The population size of Golden-crowned Kinglet (<div>Roitelet &amp;agrave; couronne dor&amp;eacute;e</div>) in the Ring of Fire region was 9.741 (8.704, 10.837) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+<h2>Regulus satrapa (<em>Roitelet &amp;agrave; couronne dor&amp;eacute;e</em>)</h2>
+
+The population size of Golden-crowned Kinglet in the Ring of Fire region was 9.741 (8.704, 10.837) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

@@ -1,9 +1,10 @@
 ---
 title: Pine Grosbeak
-subtitle: Pinicola enucleator
 ---
 
-The population size of Pine Grosbeak (<div>Durbec des sapins</div>) in the Ring of Fire region was 0.294 (0.024, 0.622) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+<h2>Pinicola enucleator (<em>Durbec des sapins</em>)</h2>
+
+The population size of Pine Grosbeak in the Ring of Fire region was 0.294 (0.024, 0.622) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

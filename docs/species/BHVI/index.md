@@ -1,9 +1,10 @@
 ---
 title: Blue-headed Vireo
-subtitle: Vireo solitarius
 ---
 
-The population size of Blue-headed Vireo (<div>Vir&amp;eacute;o &amp;agrave; t&amp;ecirc;te bleue</div>) in the Ring of Fire region was 1.9 (1.612, 2.172) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+<h2>Vireo solitarius (<em>Vir&amp;eacute;o &amp;agrave; t&amp;ecirc;te bleue</em>)</h2>
+
+The population size of Blue-headed Vireo in the Ring of Fire region was 1.9 (1.612, 2.172) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

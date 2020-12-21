@@ -1,9 +1,10 @@
 ---
 title: Brown-headed Cowbird
-subtitle: Molothrus ater
 ---
 
-The population size of Brown-headed Cowbird (<div>Vacher &amp;agrave; t&amp;ecirc;te brune</div>) in the Ring of Fire region was 0.152 (0.095, 0.211) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+<h2>Molothrus ater (<em>Vacher &amp;agrave; t&amp;ecirc;te brune</em>)</h2>
+
+The population size of Brown-headed Cowbird in the Ring of Fire region was 0.152 (0.095, 0.211) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

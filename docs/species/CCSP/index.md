@@ -1,9 +1,10 @@
 ---
 title: Clay-colored Sparrow
-subtitle: Spizella pallida
 ---
 
-The population size of Clay-colored Sparrow (<div>Bruant des plaines</div>) in the Ring of Fire region was 0.353 (0.285, 0.44) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+<h2>Spizella pallida (<em>Bruant des plaines</em>)</h2>
+
+The population size of Clay-colored Sparrow in the Ring of Fire region was 0.353 (0.285, 0.44) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

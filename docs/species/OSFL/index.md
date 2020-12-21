@@ -1,9 +1,10 @@
 ---
 title: Olive-sided Flycatcher
-subtitle: Contopus cooperi
 ---
 
-The population size of Olive-sided Flycatcher (<div>Moucherolle &amp;agrave; c&amp;ocirc;t&amp;eacute;s olive</div>) in the Ring of Fire region was 0.365 (0.279, 0.428) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+<h2>Contopus cooperi (<em>Moucherolle &amp;agrave; c&amp;ocirc;t&amp;eacute;s olive</em>)</h2>
+
+The population size of Olive-sided Flycatcher in the Ring of Fire region was 0.365 (0.279, 0.428) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

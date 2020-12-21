@@ -1,9 +1,10 @@
 ---
 title: Black-throated Green Warbler
-subtitle: Setophaga virens
 ---
 
-The population size of Black-throated Green Warbler (<div>Paruline &amp;agrave; gorge noire</div>) in the Ring of Fire region was 0.967 (0.77, 1.081) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+<h2>Setophaga virens (<em>Paruline &amp;agrave; gorge noire</em>)</h2>
+
+The population size of Black-throated Green Warbler in the Ring of Fire region was 0.967 (0.77, 1.081) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

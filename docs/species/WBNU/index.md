@@ -1,9 +1,10 @@
 ---
 title: White-breasted Nuthatch
-subtitle: Sitta carolinensis
 ---
 
-The population size of White-breasted Nuthatch (<div>Sittelle &amp;agrave; poitrine blanche</div>) in the Ring of Fire region was 0.058 (0.035, 0.085) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+<h2>Sitta carolinensis (<em>Sittelle &amp;agrave; poitrine blanche</em>)</h2>
+
+The population size of White-breasted Nuthatch in the Ring of Fire region was 0.058 (0.035, 0.085) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

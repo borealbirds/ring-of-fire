@@ -1,9 +1,10 @@
 ---
 title: Downy Woodpecker
-subtitle: Picoides pubescens
 ---
 
-The population size of Downy Woodpecker (<div>Pic mineur</div>) in the Ring of Fire region was 0.409 (0.32, 0.541) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+<h2>Picoides pubescens (<em>Pic mineur</em>)</h2>
+
+The population size of Downy Woodpecker in the Ring of Fire region was 0.409 (0.32, 0.541) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

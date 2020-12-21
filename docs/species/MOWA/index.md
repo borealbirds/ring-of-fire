@@ -1,9 +1,10 @@
 ---
 title: Mourning Warbler
-subtitle: Geothlypis philadelphia
 ---
 
-The population size of Mourning Warbler (<div>Paruline triste</div>) in the Ring of Fire region was 2.841 (2.35, 3.237) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+<h2>Geothlypis philadelphia (<em>Paruline triste</em>)</h2>
+
+The population size of Mourning Warbler in the Ring of Fire region was 2.841 (2.35, 3.237) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

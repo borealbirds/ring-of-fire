@@ -1,9 +1,10 @@
 ---
 title: Yellow-bellied Flycatcher
-subtitle: Empidonax flaviventris
 ---
 
-The population size of Yellow-bellied Flycatcher (<div>Moucherolle &amp;agrave; ventre jaune</div>) in the Ring of Fire region was 4.332 (3.835, 4.8) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+<h2>Empidonax flaviventris (<em>Moucherolle &amp;agrave; ventre jaune</em>)</h2>
+
+The population size of Yellow-bellied Flycatcher in the Ring of Fire region was 4.332 (3.835, 4.8) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

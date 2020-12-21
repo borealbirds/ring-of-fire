@@ -1,9 +1,10 @@
 ---
 title: Rusty Blackbird
-subtitle: Euphagus carolinus
 ---
 
-The population size of Rusty Blackbird (<div>Quiscale rouilleux</div>) in the Ring of Fire region was 0.788 (0.553, 1.096) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+<h2>Euphagus carolinus (<em>Quiscale rouilleux</em>)</h2>
+
+The population size of Rusty Blackbird in the Ring of Fire region was 0.788 (0.553, 1.096) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

@@ -1,9 +1,10 @@
 ---
 title: Yellow-headed Blackbird
-subtitle: Xanthocephalus xanthocephalus
 ---
 
-The population size of Yellow-headed Blackbird (<div>Carouge &amp;agrave; t&amp;ecirc;te jaune</div>) in the Ring of Fire region was 0 (0, 0) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+<h2>Xanthocephalus xanthocephalus (<em>Carouge &amp;agrave; t&amp;ecirc;te jaune</em>)</h2>
+
+The population size of Yellow-headed Blackbird in the Ring of Fire region was 0 (0, 0) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

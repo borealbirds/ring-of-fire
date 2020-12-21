@@ -1,9 +1,10 @@
 ---
 title: American Robin
-subtitle: Turdus migratorius
 ---
 
-The population size of American Robin (<div>Merle d'Am&amp;eacute;rique</div>) in the Ring of Fire region was 9.114 (8.205, 10.16) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+<h2>Turdus migratorius (<em>Merle d'Am&amp;eacute;rique</em>)</h2>
+
+The population size of American Robin in the Ring of Fire region was 9.114 (8.205, 10.16) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

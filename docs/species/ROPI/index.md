@@ -1,9 +1,10 @@
 ---
 title: Rock Pigeon
-subtitle: Columba livia
 ---
 
-The population size of Rock Pigeon (<div>Pigeon biset</div>) in the Ring of Fire region was 0.012 (0.001, 0.023) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+<h2>Columba livia (<em>Pigeon biset</em>)</h2>
+
+The population size of Rock Pigeon in the Ring of Fire region was 0.012 (0.001, 0.023) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

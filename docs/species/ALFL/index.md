@@ -1,9 +1,10 @@
 ---
 title: Alder Flycatcher
-subtitle: Empidonax alnorum
 ---
 
-The population size of Alder Flycatcher (<div>Moucherolle des aulnes</div>) in the Ring of Fire region was 7.771 (7.016, 8.767) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+<h2>Empidonax alnorum (<em>Moucherolle des aulnes</em>)</h2>
+
+The population size of Alder Flycatcher in the Ring of Fire region was 7.771 (7.016, 8.767) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

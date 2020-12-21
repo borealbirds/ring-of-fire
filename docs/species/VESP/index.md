@@ -1,9 +1,10 @@
 ---
 title: Vesper Sparrow
-subtitle: Pooecetes gramineus
 ---
 
-The population size of Vesper Sparrow (<div>Bruant vesp&amp;eacute;ral</div>) in the Ring of Fire region was 0.032 (0.019, 0.045) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+<h2>Pooecetes gramineus (<em>Bruant vesp&amp;eacute;ral</em>)</h2>
+
+The population size of Vesper Sparrow in the Ring of Fire region was 0.032 (0.019, 0.045) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

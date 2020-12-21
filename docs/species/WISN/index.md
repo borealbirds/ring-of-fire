@@ -1,9 +1,10 @@
 ---
 title: Wilson's Snipe
-subtitle: Gallinago delicata
 ---
 
-The population size of Wilson's Snipe (<div>B&amp;eacute;cassine de Wilson</div>) in the Ring of Fire region was 1.142 (0.93, 1.334) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+<h2>Gallinago delicata (<em>B&amp;eacute;cassine de Wilson</em>)</h2>
+
+The population size of Wilson's Snipe in the Ring of Fire region was 1.142 (0.93, 1.334) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

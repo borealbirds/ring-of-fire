@@ -1,9 +1,10 @@
 ---
 title: Bank Swallow
-subtitle: Riparia riparia
 ---
 
-The population size of Bank Swallow (<div>Hirondelle de rivage</div>) in the Ring of Fire region was 0.016 (0.004, 0.034) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+<h2>Riparia riparia (<em>Hirondelle de rivage</em>)</h2>
+
+The population size of Bank Swallow in the Ring of Fire region was 0.016 (0.004, 0.034) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

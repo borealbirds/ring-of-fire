@@ -1,9 +1,10 @@
 ---
 title: Cliff Swallow
-subtitle: Petrochelidon pyrrhonota
 ---
 
-The population size of Cliff Swallow (<div>Hirondelle &amp;agrave; front blanc</div>) in the Ring of Fire region was 0.136 (0.009, 0.331) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+<h2>Petrochelidon pyrrhonota (<em>Hirondelle &amp;agrave; front blanc</em>)</h2>
+
+The population size of Cliff Swallow in the Ring of Fire region was 0.136 (0.009, 0.331) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

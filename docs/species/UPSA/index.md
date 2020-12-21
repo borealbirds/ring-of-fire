@@ -1,9 +1,10 @@
 ---
 title: Upland Sandpiper
-subtitle: Bartramia longicauda
 ---
 
-The population size of Upland Sandpiper (<div>Maub&amp;egrave;che des champs</div>) in the Ring of Fire region was 0 (0, 0) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+<h2>Bartramia longicauda (<em>Maub&amp;egrave;che des champs</em>)</h2>
+
+The population size of Upland Sandpiper in the Ring of Fire region was 0 (0, 0) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

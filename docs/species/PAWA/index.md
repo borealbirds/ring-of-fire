@@ -1,9 +1,10 @@
 ---
 title: Palm Warbler
-subtitle: Setophaga palmarum
 ---
 
-The population size of Palm Warbler (<div>Paruline &amp;agrave; couronne rousse</div>) in the Ring of Fire region was 5.034 (4.053, 6.228) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+<h2>Setophaga palmarum (<em>Paruline &amp;agrave; couronne rousse</em>)</h2>
+
+The population size of Palm Warbler in the Ring of Fire region was 5.034 (4.053, 6.228) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

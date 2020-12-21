@@ -1,9 +1,10 @@
 ---
 title: Chipping Sparrow
-subtitle: Spizella passerina
 ---
 
-The population size of Chipping Sparrow (<div>Bruant familier</div>) in the Ring of Fire region was 5.492 (4.757, 6.132) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+<h2>Spizella passerina (<em>Bruant familier</em>)</h2>
+
+The population size of Chipping Sparrow in the Ring of Fire region was 5.492 (4.757, 6.132) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

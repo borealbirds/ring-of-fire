@@ -1,9 +1,10 @@
 ---
 title: Brown Creeper
-subtitle: Certhia americana
 ---
 
-The population size of Brown Creeper (<div>Grimpereau brun</div>) in the Ring of Fire region was 1.314 (0.986, 1.722) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+<h2>Certhia americana (<em>Grimpereau brun</em>)</h2>
+
+The population size of Brown Creeper in the Ring of Fire region was 1.314 (0.986, 1.722) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

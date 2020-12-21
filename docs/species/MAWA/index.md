@@ -1,9 +1,10 @@
 ---
 title: Magnolia Warbler
-subtitle: Setophaga magnolia
 ---
 
-The population size of Magnolia Warbler (<div>Paruline &amp;agrave; t&amp;ecirc;te cendr&amp;eacute;e</div>) in the Ring of Fire region was 13.45 (12.602, 15.046) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+<h2>Setophaga magnolia (<em>Paruline &amp;agrave; t&amp;ecirc;te cendr&amp;eacute;e</em>)</h2>
+
+The population size of Magnolia Warbler in the Ring of Fire region was 13.45 (12.602, 15.046) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

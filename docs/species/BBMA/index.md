@@ -1,9 +1,10 @@
 ---
 title: Black-billed Magpie
-subtitle: Pica hudsonia
 ---
 
-The population size of Black-billed Magpie (<div>Pie d'Am&amp;eacute;rique</div>) in the Ring of Fire region was 0.014 (0.008, 0.021) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+<h2>Pica hudsonia (<em>Pie d'Am&amp;eacute;rique</em>)</h2>
+
+The population size of Black-billed Magpie in the Ring of Fire region was 0.014 (0.008, 0.021) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

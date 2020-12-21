@@ -1,9 +1,10 @@
 ---
 title: Lapland Longspur
-subtitle: Calcarius lapponicus
 ---
 
-The population size of Lapland Longspur (<div>Plectrophane lapon</div>) in the Ring of Fire region was 0 (0, 0.001) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+<h2>Calcarius lapponicus (<em>Plectrophane lapon</em>)</h2>
+
+The population size of Lapland Longspur in the Ring of Fire region was 0 (0, 0.001) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

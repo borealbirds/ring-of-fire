@@ -1,9 +1,10 @@
 ---
 title: Connecticut Warbler
-subtitle: Oporornis agilis
 ---
 
-The population size of Connecticut Warbler (<div>Paruline &amp;agrave; gorge grise</div>) in the Ring of Fire region was 0.219 (0.155, 0.279) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+<h2>Oporornis agilis (<em>Paruline &amp;agrave; gorge grise</em>)</h2>
+
+The population size of Connecticut Warbler in the Ring of Fire region was 0.219 (0.155, 0.279) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 
