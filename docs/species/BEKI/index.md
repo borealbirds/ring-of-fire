@@ -1,24 +1,25 @@
 ---
-title: Belted Kingfisher - Martin-p&amp;ecirc;cheur d'Am&amp;eacute;rique
-subtitle: (_Megaceryle alcyon_)
+title: Belted Kingfisher
 ---
+
+## Martin-p&amp;ecirc;cheur d'Am&amp;eacute;rique - Megaceryle alcyon
 
 The population size of Belted Kingfisher in the Ring of Fire region was 0.172 (0.128, 0.239) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
-# Maps
+### Maps
 
 Mean density (males per ha) is the average of 32 bootstrap based prediction maps.
 
 ![Distribution map]({{ site.baseurl }}/species/BEKI/map.png)
 
-# Density
+### Density
 
 Mean densities and bootstrap based confidence intervals by land cover type.
 Density summaries were calculated using post-hoc binning ([BAM 2020](https://dx.doi.org/10.5281/zenodo.4018335)), we used the 2005 Canadian Land Cover layer.
 
 ![Density by land cover type]({{ site.baseurl }}/species/BEKI/density.png)
 
-# Download
+### Download
 
 The following summaries are awailable for download (all species combined):
 

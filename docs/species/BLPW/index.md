@@ -1,24 +1,25 @@
 ---
-title: Blackpoll Warbler - Paruline ray&amp;eacute;e
-subtitle: (_Setophaga striata_)
+title: Blackpoll Warbler
 ---
+
+## Paruline ray&amp;eacute;e - Setophaga striata
 
 The population size of Blackpoll Warbler in the Ring of Fire region was 2.362 (1.468, 3.134) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
-# Maps
+### Maps
 
 Mean density (males per ha) is the average of 32 bootstrap based prediction maps.
 
 ![Distribution map]({{ site.baseurl }}/species/BLPW/map.png)
 
-# Density
+### Density
 
 Mean densities and bootstrap based confidence intervals by land cover type.
 Density summaries were calculated using post-hoc binning ([BAM 2020](https://dx.doi.org/10.5281/zenodo.4018335)), we used the 2005 Canadian Land Cover layer.
 
 ![Density by land cover type]({{ site.baseurl }}/species/BLPW/density.png)
 
-# Download
+### Download
 
 The following summaries are awailable for download (all species combined):
 

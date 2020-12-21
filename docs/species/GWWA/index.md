@@ -1,24 +1,25 @@
 ---
-title: Golden-winged Warbler - Paruline &amp;agrave; ailes dor&amp;eacute;es
-subtitle: (_Vermivora chrysoptera_)
+title: Golden-winged Warbler
 ---
+
+## Paruline &amp;agrave; ailes dor&amp;eacute;es - Vermivora chrysoptera
 
 The population size of Golden-winged Warbler in the Ring of Fire region was 0.004 (0, 0.012) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
-# Maps
+### Maps
 
 Mean density (males per ha) is the average of 32 bootstrap based prediction maps.
 
 ![Distribution map]({{ site.baseurl }}/species/GWWA/map.png)
 
-# Density
+### Density
 
 Mean densities and bootstrap based confidence intervals by land cover type.
 Density summaries were calculated using post-hoc binning ([BAM 2020](https://dx.doi.org/10.5281/zenodo.4018335)), we used the 2005 Canadian Land Cover layer.
 
 ![Density by land cover type]({{ site.baseurl }}/species/GWWA/density.png)
 
-# Download
+### Download
 
 The following summaries are awailable for download (all species combined):
 

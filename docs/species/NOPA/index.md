@@ -1,24 +1,25 @@
 ---
-title: Northern Parula - Paruline &amp;agrave; collier
-subtitle: (_Setophaga americana_)
+title: Northern Parula
 ---
+
+## Paruline &amp;agrave; collier - Setophaga americana
 
 The population size of Northern Parula in the Ring of Fire region was 0.335 (0.259, 0.408) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
-# Maps
+### Maps
 
 Mean density (males per ha) is the average of 32 bootstrap based prediction maps.
 
 ![Distribution map]({{ site.baseurl }}/species/NOPA/map.png)
 
-# Density
+### Density
 
 Mean densities and bootstrap based confidence intervals by land cover type.
 Density summaries were calculated using post-hoc binning ([BAM 2020](https://dx.doi.org/10.5281/zenodo.4018335)), we used the 2005 Canadian Land Cover layer.
 
 ![Density by land cover type]({{ site.baseurl }}/species/NOPA/density.png)
 
-# Download
+### Download
 
 The following summaries are awailable for download (all species combined):
 

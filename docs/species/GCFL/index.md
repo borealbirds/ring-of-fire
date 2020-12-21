@@ -1,24 +1,25 @@
 ---
-title: Great Crested Flycatcher - Tyran hupp&amp;eacute;
-subtitle: (_Myiarchus crinitus_)
+title: Great Crested Flycatcher
 ---
+
+## Tyran hupp&amp;eacute; - Myiarchus crinitus
 
 The population size of Great Crested Flycatcher in the Ring of Fire region was 0.015 (0.004, 0.033) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
-# Maps
+### Maps
 
 Mean density (males per ha) is the average of 32 bootstrap based prediction maps.
 
 ![Distribution map]({{ site.baseurl }}/species/GCFL/map.png)
 
-# Density
+### Density
 
 Mean densities and bootstrap based confidence intervals by land cover type.
 Density summaries were calculated using post-hoc binning ([BAM 2020](https://dx.doi.org/10.5281/zenodo.4018335)), we used the 2005 Canadian Land Cover layer.
 
 ![Density by land cover type]({{ site.baseurl }}/species/GCFL/density.png)
 
-# Download
+### Download
 
 The following summaries are awailable for download (all species combined):
 

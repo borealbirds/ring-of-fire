@@ -1,24 +1,25 @@
 ---
-title: Olive-sided Flycatcher - Moucherolle &amp;agrave; c&amp;ocirc;t&amp;eacute;s olive
-subtitle: (_Contopus cooperi_)
+title: Olive-sided Flycatcher
 ---
+
+## Moucherolle &amp;agrave; c&amp;ocirc;t&amp;eacute;s olive - Contopus cooperi
 
 The population size of Olive-sided Flycatcher in the Ring of Fire region was 0.365 (0.279, 0.428) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
-# Maps
+### Maps
 
 Mean density (males per ha) is the average of 32 bootstrap based prediction maps.
 
 ![Distribution map]({{ site.baseurl }}/species/OSFL/map.png)
 
-# Density
+### Density
 
 Mean densities and bootstrap based confidence intervals by land cover type.
 Density summaries were calculated using post-hoc binning ([BAM 2020](https://dx.doi.org/10.5281/zenodo.4018335)), we used the 2005 Canadian Land Cover layer.
 
 ![Density by land cover type]({{ site.baseurl }}/species/OSFL/density.png)
 
-# Download
+### Download
 
 The following summaries are awailable for download (all species combined):
 

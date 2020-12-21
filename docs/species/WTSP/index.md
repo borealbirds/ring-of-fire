@@ -1,24 +1,25 @@
 ---
-title: White-throated Sparrow - Bruant &amp;agrave; gorge blanche
-subtitle: (_Zonotrichia albicollis_)
+title: White-throated Sparrow
 ---
+
+## Bruant &amp;agrave; gorge blanche - Zonotrichia albicollis
 
 The population size of White-throated Sparrow in the Ring of Fire region was 19.467 (17.91, 21.038) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
-# Maps
+### Maps
 
 Mean density (males per ha) is the average of 32 bootstrap based prediction maps.
 
 ![Distribution map]({{ site.baseurl }}/species/WTSP/map.png)
 
-# Density
+### Density
 
 Mean densities and bootstrap based confidence intervals by land cover type.
 Density summaries were calculated using post-hoc binning ([BAM 2020](https://dx.doi.org/10.5281/zenodo.4018335)), we used the 2005 Canadian Land Cover layer.
 
 ![Density by land cover type]({{ site.baseurl }}/species/WTSP/density.png)
 
-# Download
+### Download
 
 The following summaries are awailable for download (all species combined):
 

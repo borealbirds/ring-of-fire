@@ -1,24 +1,25 @@
 ---
-title: White-crowned Sparrow - Bruant &amp;agrave; couronne blanche
-subtitle: (_Zonotrichia leucophrys_)
+title: White-crowned Sparrow
 ---
+
+## Bruant &amp;agrave; couronne blanche - Zonotrichia leucophrys
 
 The population size of White-crowned Sparrow in the Ring of Fire region was 1.078 (0.832, 1.403) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
-# Maps
+### Maps
 
 Mean density (males per ha) is the average of 32 bootstrap based prediction maps.
 
 ![Distribution map]({{ site.baseurl }}/species/WCSP/map.png)
 
-# Density
+### Density
 
 Mean densities and bootstrap based confidence intervals by land cover type.
 Density summaries were calculated using post-hoc binning ([BAM 2020](https://dx.doi.org/10.5281/zenodo.4018335)), we used the 2005 Canadian Land Cover layer.
 
 ![Density by land cover type]({{ site.baseurl }}/species/WCSP/density.png)
 
-# Download
+### Download
 
 The following summaries are awailable for download (all species combined):
 

@@ -1,24 +1,25 @@
 ---
-title: Blue Jay - Geai bleu
-subtitle: (_Cyanocitta cristata_)
+title: Blue Jay
 ---
+
+## Geai bleu - Cyanocitta cristata
 
 The population size of Blue Jay in the Ring of Fire region was 0.46 (0.375, 0.558) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
-# Maps
+### Maps
 
 Mean density (males per ha) is the average of 32 bootstrap based prediction maps.
 
 ![Distribution map]({{ site.baseurl }}/species/BLJA/map.png)
 
-# Density
+### Density
 
 Mean densities and bootstrap based confidence intervals by land cover type.
 Density summaries were calculated using post-hoc binning ([BAM 2020](https://dx.doi.org/10.5281/zenodo.4018335)), we used the 2005 Canadian Land Cover layer.
 
 ![Density by land cover type]({{ site.baseurl }}/species/BLJA/density.png)
 
-# Download
+### Download
 
 The following summaries are awailable for download (all species combined):
 
