@@ -3,7 +3,7 @@ title: Townsend's Warbler
 subtitle: Setophaga townsendi
 ---
 
-The population size of Townsend's Warbler (Paruline de Townsend) in the Ring of Fire region was 0 (0, 0) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+The population size of Townsend's Warbler (<div>Paruline de Townsend</div>) in the Ring of Fire region was 0 (0, 0) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

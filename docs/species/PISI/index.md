@@ -3,7 +3,7 @@ title: Pine Siskin
 subtitle: Spinus pinus
 ---
 
-The population size of Pine Siskin (Tarin des pins) in the Ring of Fire region was 4.86 (3.938, 5.746) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+The population size of Pine Siskin (<div>Tarin des pins</div>) in the Ring of Fire region was 4.86 (3.938, 5.746) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

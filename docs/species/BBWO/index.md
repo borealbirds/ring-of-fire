@@ -3,7 +3,7 @@ title: Black-backed Woodpecker
 subtitle: Picoides arcticus
 ---
 
-The population size of Black-backed Woodpecker (Pic &amp;agrave; dos noir) in the Ring of Fire region was 0.467 (0.349, 0.588) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+The population size of Black-backed Woodpecker (<div>Pic &amp;agrave; dos noir</div>) in the Ring of Fire region was 0.467 (0.349, 0.588) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

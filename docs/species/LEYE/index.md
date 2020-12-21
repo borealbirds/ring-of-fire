@@ -3,7 +3,7 @@ title: Lesser Yellowlegs
 subtitle: Tringa flavipes
 ---
 
-The population size of Lesser Yellowlegs (Petit Chevalier) in the Ring of Fire region was 0.187 (0.025, 0.459) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+The population size of Lesser Yellowlegs (<div>Petit Chevalier</div>) in the Ring of Fire region was 0.187 (0.025, 0.459) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

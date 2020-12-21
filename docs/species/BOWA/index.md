@@ -3,7 +3,7 @@ title: Bohemian Waxwing
 subtitle: Bombycilla garrulus
 ---
 
-The population size of Bohemian Waxwing (Jaseur bor&amp;eacute;al) in the Ring of Fire region was 0.28 (0, 0.595) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+The population size of Bohemian Waxwing (<div>Jaseur bor&amp;eacute;al</div>) in the Ring of Fire region was 0.28 (0, 0.595) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

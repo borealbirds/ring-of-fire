@@ -3,7 +3,7 @@ title: Warbling Vireo
 subtitle: Vireo gilvus
 ---
 
-The population size of Warbling Vireo (Vir&amp;eacute;o m&amp;eacute;lodieux) in the Ring of Fire region was 0.014 (0.001, 0.032) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+The population size of Warbling Vireo (<div>Vir&amp;eacute;o m&amp;eacute;lodieux</div>) in the Ring of Fire region was 0.014 (0.001, 0.032) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

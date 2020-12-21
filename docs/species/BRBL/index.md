@@ -3,7 +3,7 @@ title: Brewer's Blackbird
 subtitle: Euphagus cyanocephalus
 ---
 
-The population size of Brewer's Blackbird (Quiscale de Brewer) in the Ring of Fire region was 0.062 (0.032, 0.099) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+The population size of Brewer's Blackbird (<div>Quiscale de Brewer</div>) in the Ring of Fire region was 0.062 (0.032, 0.099) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

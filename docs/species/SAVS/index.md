@@ -3,7 +3,7 @@ title: Savannah Sparrow
 subtitle: Passerculus sandwichensis
 ---
 
-The population size of Savannah Sparrow (Bruant des pr&amp;eacute;s) in the Ring of Fire region was 4.333 (3.308, 5.767) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+The population size of Savannah Sparrow (<div>Bruant des pr&amp;eacute;s</div>) in the Ring of Fire region was 4.333 (3.308, 5.767) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

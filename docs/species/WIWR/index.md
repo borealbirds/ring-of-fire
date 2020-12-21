@@ -3,7 +3,7 @@ title: Winter Wren
 subtitle: Troglodytes hiemalis
 ---
 
-The population size of Winter Wren (Troglodyte des for&amp;ecirc;ts) in the Ring of Fire region was 3.734 (3.239, 4.255) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+The population size of Winter Wren (<div>Troglodyte des for&amp;ecirc;ts</div>) in the Ring of Fire region was 3.734 (3.239, 4.255) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

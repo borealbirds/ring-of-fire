@@ -3,7 +3,7 @@ title: Swainson's Thrush
 subtitle: Catharus ustulatus
 ---
 
-The population size of Swainson's Thrush (Grive &amp;agrave; dos olive) in the Ring of Fire region was 9.88 (9.052, 11.061) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+The population size of Swainson's Thrush (<div>Grive &amp;agrave; dos olive</div>) in the Ring of Fire region was 9.88 (9.052, 11.061) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

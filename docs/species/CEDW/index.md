@@ -3,7 +3,7 @@ title: Cedar Waxwing
 subtitle: Bombycilla cedrorum
 ---
 
-The population size of Cedar Waxwing (Jaseur d'Am&amp;eacute;rique) in the Ring of Fire region was 5.838 (4.775, 6.953) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+The population size of Cedar Waxwing (<div>Jaseur d'Am&amp;eacute;rique</div>) in the Ring of Fire region was 5.838 (4.775, 6.953) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

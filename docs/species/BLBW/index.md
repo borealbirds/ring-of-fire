@@ -3,7 +3,7 @@ title: Blackburnian Warbler
 subtitle: Setophaga fusca
 ---
 
-The population size of Blackburnian Warbler (Paruline &amp;agrave; gorge orang&amp;eacute;e) in the Ring of Fire region was 1.385 (1.086, 1.735) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+The population size of Blackburnian Warbler (<div>Paruline &amp;agrave; gorge orang&amp;eacute;e</div>) in the Ring of Fire region was 1.385 (1.086, 1.735) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

@@ -3,7 +3,7 @@ title: Cape May Warbler
 subtitle: Setophaga tigrina
 ---
 
-The population size of Cape May Warbler (Paruline tigr&amp;eacute;e) in the Ring of Fire region was 0.866 (0.664, 1.267) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+The population size of Cape May Warbler (<div>Paruline tigr&amp;eacute;e</div>) in the Ring of Fire region was 0.866 (0.664, 1.267) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

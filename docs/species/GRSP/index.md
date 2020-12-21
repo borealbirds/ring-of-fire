@@ -3,7 +3,7 @@ title: Grasshopper Sparrow
 subtitle: Ammodramus savannarum
 ---
 
-The population size of Grasshopper Sparrow (Bruant sauterelle) in the Ring of Fire region was 0 (0, 0) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+The population size of Grasshopper Sparrow (<div>Bruant sauterelle</div>) in the Ring of Fire region was 0 (0, 0) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

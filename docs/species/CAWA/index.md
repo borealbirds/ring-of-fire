@@ -3,7 +3,7 @@ title: Canada Warbler
 subtitle: Cardellina canadensis
 ---
 
-The population size of Canada Warbler (Paruline du Canada) in the Ring of Fire region was 0.444 (0.362, 0.531) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+The population size of Canada Warbler (<div>Paruline du Canada</div>) in the Ring of Fire region was 0.444 (0.362, 0.531) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

@@ -3,7 +3,7 @@ title: Great Crested Flycatcher
 subtitle: Myiarchus crinitus
 ---
 
-The population size of Great Crested Flycatcher (Tyran hupp&amp;eacute;) in the Ring of Fire region was 0.015 (0.004, 0.033) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+The population size of Great Crested Flycatcher (<div>Tyran hupp&amp;eacute;</div>) in the Ring of Fire region was 0.015 (0.004, 0.033) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

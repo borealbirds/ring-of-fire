@@ -3,7 +3,7 @@ title: Eastern Towhee
 subtitle: Pipilo erythrophthalmus
 ---
 
-The population size of Eastern Towhee (Tohi &amp;agrave; flancs roux) in the Ring of Fire region was 0.001 (0, 0.004) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+The population size of Eastern Towhee (<div>Tohi &amp;agrave; flancs roux</div>) in the Ring of Fire region was 0.001 (0, 0.004) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

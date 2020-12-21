@@ -3,7 +3,7 @@ title: Red-breasted Nuthatch
 subtitle: Sitta canadensis
 ---
 
-The population size of Red-breasted Nuthatch (Sittelle &amp;agrave; poitrine rousse) in the Ring of Fire region was 2.405 (2.039, 2.757) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+The population size of Red-breasted Nuthatch (<div>Sittelle &amp;agrave; poitrine rousse</div>) in the Ring of Fire region was 2.405 (2.039, 2.757) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

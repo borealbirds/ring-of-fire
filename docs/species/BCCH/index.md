@@ -3,7 +3,7 @@ title: Black-capped Chickadee
 subtitle: Poecile atricapillus
 ---
 
-The population size of Black-capped Chickadee (M&amp;eacute;sange &amp;agrave; t&amp;ecirc;te noire) in the Ring of Fire region was 2.561 (2.24, 3.022) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+The population size of Black-capped Chickadee (<div>M&amp;eacute;sange &amp;agrave; t&amp;ecirc;te noire</div>) in the Ring of Fire region was 2.561 (2.24, 3.022) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

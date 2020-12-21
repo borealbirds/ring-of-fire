@@ -3,7 +3,7 @@ title: American Tree Sparrow
 subtitle: Spizella arborea
 ---
 
-The population size of American Tree Sparrow (Bruant hudsonien) in the Ring of Fire region was 0.024 (0, 0.115) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+The population size of American Tree Sparrow (<div>Bruant hudsonien</div>) in the Ring of Fire region was 0.024 (0, 0.115) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

@@ -3,7 +3,7 @@ title: Northern Flicker
 subtitle: Colaptes auratus
 ---
 
-The population size of Northern Flicker (Pic flamboyant) in the Ring of Fire region was 2.292 (2.001, 2.482) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+The population size of Northern Flicker (<div>Pic flamboyant</div>) in the Ring of Fire region was 2.292 (2.001, 2.482) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

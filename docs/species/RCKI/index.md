@@ -3,7 +3,7 @@ title: Ruby-crowned Kinglet
 subtitle: Regulus calendula
 ---
 
-The population size of Ruby-crowned Kinglet (Roitelet &amp;agrave; couronne rubis) in the Ring of Fire region was 16.085 (15.084, 17.144) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+The population size of Ruby-crowned Kinglet (<div>Roitelet &amp;agrave; couronne rubis</div>) in the Ring of Fire region was 16.085 (15.084, 17.144) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

@@ -3,7 +3,7 @@ title: Killdeer
 subtitle: Charadrius vociferus
 ---
 
-The population size of Killdeer (Pluvier kildir) in the Ring of Fire region was 0.114 (0.079, 0.167) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+The population size of Killdeer (<div>Pluvier kildir</div>) in the Ring of Fire region was 0.114 (0.079, 0.167) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

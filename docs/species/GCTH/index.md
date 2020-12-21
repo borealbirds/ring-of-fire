@@ -3,7 +3,7 @@ title: Gray-cheeked Thrush
 subtitle: Catharus minimus
 ---
 
-The population size of Gray-cheeked Thrush (Grive &amp;agrave; joues grises) in the Ring of Fire region was 0.029 (0.003, 0.098) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+The population size of Gray-cheeked Thrush (<div>Grive &amp;agrave; joues grises</div>) in the Ring of Fire region was 0.029 (0.003, 0.098) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

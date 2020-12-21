@@ -3,7 +3,7 @@ title: Common Grackle
 subtitle: Quiscalus quiscula
 ---
 
-The population size of Common Grackle (Quiscale bronz&amp;eacute;) in the Ring of Fire region was 0.61 (0.51, 0.758) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+The population size of Common Grackle (<div>Quiscale bronz&amp;eacute;</div>) in the Ring of Fire region was 0.61 (0.51, 0.758) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

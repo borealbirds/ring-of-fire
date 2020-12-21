@@ -3,7 +3,7 @@ title: White-winged Crossbill
 subtitle: Loxia leucoptera
 ---
 
-The population size of White-winged Crossbill (Bec-crois&amp;eacute; bifasci&amp;eacute;) in the Ring of Fire region was 17.449 (13.241, 21.199) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+The population size of White-winged Crossbill (<div>Bec-crois&amp;eacute; bifasci&amp;eacute;</div>) in the Ring of Fire region was 17.449 (13.241, 21.199) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

@@ -3,7 +3,7 @@ title: Chestnut-sided Warbler
 subtitle: Setophaga pensylvanica
 ---
 
-The population size of Chestnut-sided Warbler (Paruline &amp;agrave; flancs marron) in the Ring of Fire region was 1.878 (1.563, 2.174) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+The population size of Chestnut-sided Warbler (<div>Paruline &amp;agrave; flancs marron</div>) in the Ring of Fire region was 1.878 (1.563, 2.174) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

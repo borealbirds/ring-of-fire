@@ -3,7 +3,7 @@ title: Bay-breasted Warbler
 subtitle: Setophaga castanea
 ---
 
-The population size of Bay-breasted Warbler (Paruline &amp;agrave; poitrine baie) in the Ring of Fire region was 3.106 (2.622, 3.621) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+The population size of Bay-breasted Warbler (<div>Paruline &amp;agrave; poitrine baie</div>) in the Ring of Fire region was 3.106 (2.622, 3.621) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

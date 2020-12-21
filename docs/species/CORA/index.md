@@ -3,7 +3,7 @@ title: Common Raven
 subtitle: Corvus corax
 ---
 
-The population size of Common Raven (Grand Corbeau) in the Ring of Fire region was 2.213 (1.973, 2.503) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+The population size of Common Raven (<div>Grand Corbeau</div>) in the Ring of Fire region was 2.213 (1.973, 2.503) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

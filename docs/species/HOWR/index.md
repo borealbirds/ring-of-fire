@@ -3,7 +3,7 @@ title: House Wren
 subtitle: Troglodytes aedon
 ---
 
-The population size of House Wren (Troglodyte familier) in the Ring of Fire region was 0.037 (0.02, 0.055) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+The population size of House Wren (<div>Troglodyte familier</div>) in the Ring of Fire region was 0.037 (0.02, 0.055) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

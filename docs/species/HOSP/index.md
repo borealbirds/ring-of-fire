@@ -3,7 +3,7 @@ title: House Sparrow
 subtitle: Passer domesticus
 ---
 
-The population size of House Sparrow (Moineau domestique) in the Ring of Fire region was 0.04 (0.01, 0.068) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+The population size of House Sparrow (<div>Moineau domestique</div>) in the Ring of Fire region was 0.04 (0.01, 0.068) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

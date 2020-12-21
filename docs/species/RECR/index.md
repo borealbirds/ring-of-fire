@@ -3,7 +3,7 @@ title: Red Crossbill
 subtitle: Loxia curvirostra
 ---
 
-The population size of Red Crossbill (Bec-crois&amp;eacute; des sapins) in the Ring of Fire region was 0.017 (0, 0.068) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+The population size of Red Crossbill (<div>Bec-crois&amp;eacute; des sapins</div>) in the Ring of Fire region was 0.017 (0, 0.068) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

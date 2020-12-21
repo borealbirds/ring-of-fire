@@ -3,7 +3,7 @@ title: Black-throated Blue Warbler
 subtitle: Setophaga caerulescens
 ---
 
-The population size of Black-throated Blue Warbler (Paruline bleue) in the Ring of Fire region was 0.294 (0.232, 0.383) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+The population size of Black-throated Blue Warbler (<div>Paruline bleue</div>) in the Ring of Fire region was 0.294 (0.232, 0.383) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

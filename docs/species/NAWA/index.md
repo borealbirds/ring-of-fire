@@ -3,7 +3,7 @@ title: Nashville Warbler
 subtitle: Oreothlypis ruficapilla
 ---
 
-The population size of Nashville Warbler (Paruline &amp;agrave; joues grises) in the Ring of Fire region was 9.066 (8.304, 9.65) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+The population size of Nashville Warbler (<div>Paruline &amp;agrave; joues grises</div>) in the Ring of Fire region was 9.066 (8.304, 9.65) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

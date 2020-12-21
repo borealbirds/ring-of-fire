@@ -3,7 +3,7 @@ title: Ruffed Grouse
 subtitle: Bonasa umbellus
 ---
 
-The population size of Ruffed Grouse (G&amp;eacute;linotte hupp&amp;eacute;e) in the Ring of Fire region was 0.392 (0.307, 0.474) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+The population size of Ruffed Grouse (<div>G&amp;eacute;linotte hupp&amp;eacute;e</div>) in the Ring of Fire region was 0.392 (0.307, 0.474) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

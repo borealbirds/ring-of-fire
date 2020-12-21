@@ -3,7 +3,7 @@ title: Black-and-white Warbler
 subtitle: Mniotilta varia
 ---
 
-The population size of Black-and-white Warbler (Paruline noir et blanc) in the Ring of Fire region was 3.14 (2.779, 3.443) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+The population size of Black-and-white Warbler (<div>Paruline noir et blanc</div>) in the Ring of Fire region was 3.14 (2.779, 3.443) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

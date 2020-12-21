@@ -3,7 +3,7 @@ title: Western Tanager
 subtitle: Piranga ludoviciana
 ---
 
-The population size of Western Tanager (Piranga &amp;agrave; t&amp;ecirc;te rouge) in the Ring of Fire region was 0 (0, 0) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+The population size of Western Tanager (<div>Piranga &amp;agrave; t&amp;ecirc;te rouge</div>) in the Ring of Fire region was 0 (0, 0) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 

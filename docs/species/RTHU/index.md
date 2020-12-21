@@ -3,7 +3,7 @@ title: Ruby-throated Hummingbird
 subtitle: Archilochus colubris
 ---
 
-The population size of Ruby-throated Hummingbird (Colibri &amp;agrave; gorge rubis) in the Ring of Fire region was 0.437 (0.207, 0.746) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
+The population size of Ruby-throated Hummingbird (<div>Colibri &amp;agrave; gorge rubis</div>) in the Ring of Fire region was 0.437 (0.207, 0.746) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
 # Maps
 
