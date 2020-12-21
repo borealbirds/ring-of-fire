@@ -1,25 +1,24 @@
 ---
 title: Black-and-white Warbler
+subtitle: Mniotilta varia
 ---
 
-## Paruline noir et blanc - Mniotilta varia
+The population size of Black-and-white Warbler (Paruline noir et blanc) in the Ring of Fire region was 3.14 (2.779, 3.443) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
-The population size of Black-and-white Warbler in the Ring of Fire region was 3.14 (2.779, 3.443) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
-
-### Maps
+# Maps
 
 Mean density (males per ha) is the average of 32 bootstrap based prediction maps.
 
 ![Distribution map]({{ site.baseurl }}/species/BAWW/map.png)
 
-### Density
+# Density
 
 Mean densities and bootstrap based confidence intervals by land cover type.
 Density summaries were calculated using post-hoc binning ([BAM 2020](https://dx.doi.org/10.5281/zenodo.4018335)), we used the 2005 Canadian Land Cover layer.
 
 ![Density by land cover type]({{ site.baseurl }}/species/BAWW/density.png)
 
-### Download
+# Download
 
 The following summaries are awailable for download (all species combined):
 

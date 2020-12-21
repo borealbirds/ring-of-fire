@@ -1,25 +1,24 @@
 ---
 title: Black-billed Cuckoo
+subtitle: Coccyzus erythropthalmus
 ---
 
-## Coulicou &amp;agrave; bec noir - Coccyzus erythropthalmus
+The population size of Black-billed Cuckoo (Coulicou &amp;agrave; bec noir) in the Ring of Fire region was 0.077 (0.061, 0.094) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
-The population size of Black-billed Cuckoo in the Ring of Fire region was 0.077 (0.061, 0.094) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
-
-### Maps
+# Maps
 
 Mean density (males per ha) is the average of 32 bootstrap based prediction maps.
 
 ![Distribution map]({{ site.baseurl }}/species/BBCU/map.png)
 
-### Density
+# Density
 
 Mean densities and bootstrap based confidence intervals by land cover type.
 Density summaries were calculated using post-hoc binning ([BAM 2020](https://dx.doi.org/10.5281/zenodo.4018335)), we used the 2005 Canadian Land Cover layer.
 
 ![Density by land cover type]({{ site.baseurl }}/species/BBCU/density.png)
 
-### Download
+# Download
 
 The following summaries are awailable for download (all species combined):
 
