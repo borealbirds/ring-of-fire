@@ -1,8 +1,7 @@
 ---
 title: Solitary Sandpiper
+subtitle: Tringa solitaria
 ---
-
-<h2>Tringa solitaria (<em>Chevalier solitaire</em>)</h2>
 
 The population size of Solitary Sandpiper in the Ring of Fire region was 0.235 (0.046, 0.374) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 

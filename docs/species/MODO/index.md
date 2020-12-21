@@ -1,8 +1,7 @@
 ---
 title: Mourning Dove
+subtitle: Zenaida macroura
 ---
-
-<h2>Zenaida macroura (<em>Tourterelle triste</em>)</h2>
 
 The population size of Mourning Dove in the Ring of Fire region was 0.129 (0.104, 0.161) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 

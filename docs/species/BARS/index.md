@@ -1,8 +1,7 @@
 ---
 title: Barn Swallow
+subtitle: Hirundo rustica
 ---
-
-<h2>Hirundo rustica (<em>Hirondelle rustique</em>)</h2>
 
 The population size of Barn Swallow in the Ring of Fire region was 0.368 (0.268, 0.504) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 

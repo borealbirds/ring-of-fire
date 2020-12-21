@@ -1,8 +1,7 @@
 ---
 title: Swamp Sparrow
+subtitle: Melospiza georgiana
 ---
-
-<h2>Melospiza georgiana (<em>Bruant des marais</em>)</h2>
 
 The population size of Swamp Sparrow in the Ring of Fire region was 3.744 (3.242, 4.482) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 

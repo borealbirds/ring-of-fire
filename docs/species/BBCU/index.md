@@ -1,8 +1,7 @@
 ---
 title: Black-billed Cuckoo
+subtitle: Coccyzus erythropthalmus
 ---
-
-<h2>Coccyzus erythropthalmus (<em>Coulicou &amp;agrave; bec noir</em>)</h2>
 
 The population size of Black-billed Cuckoo in the Ring of Fire region was 0.077 (0.061, 0.094) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 

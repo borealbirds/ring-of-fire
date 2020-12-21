@@ -1,8 +1,7 @@
 ---
 title: Wilson's Warbler
+subtitle: Cardellina pusilla
 ---
-
-<h2>Cardellina pusilla (<em>Paruline &amp;agrave; calotte noire</em>)</h2>
 
 The population size of Wilson's Warbler in the Ring of Fire region was 3.219 (2.733, 3.702) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 

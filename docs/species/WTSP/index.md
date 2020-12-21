@@ -1,8 +1,7 @@
 ---
 title: White-throated Sparrow
+subtitle: Zonotrichia albicollis
 ---
-
-<h2>Zonotrichia albicollis (<em>Bruant &amp;agrave; gorge blanche</em>)</h2>
 
 The population size of White-throated Sparrow in the Ring of Fire region was 19.467 (17.91, 21.038) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 

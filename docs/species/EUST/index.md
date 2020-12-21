@@ -1,8 +1,7 @@
 ---
 title: European Starling
+subtitle: Sturnus vulgaris
 ---
-
-<h2>Sturnus vulgaris (<em>&amp;Eacute;tourneau sansonnet</em>)</h2>
 
 The population size of European Starling in the Ring of Fire region was 0.592 (0.41, 0.825) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 

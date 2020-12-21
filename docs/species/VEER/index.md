@@ -1,8 +1,7 @@
 ---
 title: Veery
+subtitle: Catharus fuscescens
 ---
-
-<h2>Catharus fuscescens (<em>Grive fauve</em>)</h2>
 
 The population size of Veery in the Ring of Fire region was 1.045 (0.874, 1.231) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 

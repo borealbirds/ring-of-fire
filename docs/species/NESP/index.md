@@ -1,8 +1,7 @@
 ---
 title: Nelson's Sparrow
+subtitle: Ammodramus nelsoni
 ---
-
-<h2>Ammodramus nelsoni (<em>Bruant de Nelson</em>)</h2>
 
 The population size of Nelson's Sparrow in the Ring of Fire region was 0.125 (0.029, 0.269) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 

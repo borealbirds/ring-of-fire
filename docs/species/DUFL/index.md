@@ -1,8 +1,7 @@
 ---
 title: Dusky Flycatcher
+subtitle: Empidonax oberholseri
 ---
-
-<h2>Empidonax oberholseri (<em>Moucherolle sombre</em>)</h2>
 
 The population size of Dusky Flycatcher in the Ring of Fire region was 0 (0, 0) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 

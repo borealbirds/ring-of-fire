@@ -1,8 +1,7 @@
 ---
 title: Yellow-throated Vireo
+subtitle: Vireo flavifrons
 ---
-
-<h2>Vireo flavifrons (<em>Vir&amp;eacute;o &amp;agrave; gorge jaune</em>)</h2>
 
 The population size of Yellow-throated Vireo in the Ring of Fire region was 0.028 (0.008, 0.06) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 

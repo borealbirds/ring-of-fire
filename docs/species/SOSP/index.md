@@ -1,8 +1,7 @@
 ---
 title: Song Sparrow
+subtitle: Melospiza melodia
 ---
-
-<h2>Melospiza melodia (<em>Bruant chanteur</em>)</h2>
 
 The population size of Song Sparrow in the Ring of Fire region was 1.715 (1.502, 1.997) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 

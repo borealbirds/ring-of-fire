@@ -1,8 +1,7 @@
 ---
 title: Scarlet Tanager
+subtitle: Piranga olivacea
 ---
-
-<h2>Piranga olivacea (<em>Piranga &amp;eacute;carlate</em>)</h2>
 
 The population size of Scarlet Tanager in the Ring of Fire region was 0.021 (0.012, 0.033) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 

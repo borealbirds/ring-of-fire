@@ -1,8 +1,7 @@
 ---
 title: White-crowned Sparrow
+subtitle: Zonotrichia leucophrys
 ---
-
-<h2>Zonotrichia leucophrys (<em>Bruant &amp;agrave; couronne blanche</em>)</h2>
 
 The population size of White-crowned Sparrow in the Ring of Fire region was 1.078 (0.832, 1.403) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 

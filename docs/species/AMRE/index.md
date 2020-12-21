@@ -1,8 +1,7 @@
 ---
 title: American Redstart
+subtitle: Setophaga ruticilla
 ---
-
-<h2>Setophaga ruticilla (<em>Paruline flamboyante</em>)</h2>
 
 The population size of American Redstart in the Ring of Fire region was 4.565 (4.175, 4.972) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 

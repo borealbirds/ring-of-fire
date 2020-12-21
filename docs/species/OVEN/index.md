@@ -1,8 +1,7 @@
 ---
 title: Ovenbird
+subtitle: Seiurus aurocapilla
 ---
-
-<h2>Seiurus aurocapilla (<em>Paruline couronn&amp;eacute;e</em>)</h2>
 
 The population size of Ovenbird in the Ring of Fire region was 4.074 (3.447, 4.604) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 

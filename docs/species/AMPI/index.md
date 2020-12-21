@@ -1,8 +1,7 @@
 ---
 title: American Pipit
+subtitle: Anthus rubescens
 ---
-
-<h2>Anthus rubescens (<em>Pipit d'Am&amp;eacute;rique</em>)</h2>
 
 The population size of American Pipit in the Ring of Fire region was 0 (0, 0) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 

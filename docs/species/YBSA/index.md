@@ -1,8 +1,7 @@
 ---
 title: Yellow-bellied Sapsucker
+subtitle: Sphyrapicus varius
 ---
-
-<h2>Sphyrapicus varius (<em>Pic macul&amp;eacute;</em>)</h2>
 
 The population size of Yellow-bellied Sapsucker in the Ring of Fire region was 1.493 (1.211, 1.758) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 

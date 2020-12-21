@@ -1,8 +1,7 @@
 ---
 title: Marsh Wren
+subtitle: Cistothorus palustris
 ---
-
-<h2>Cistothorus palustris (<em>Troglodyte des marais</em>)</h2>
 
 The population size of Marsh Wren in the Ring of Fire region was 0.005 (0, 0.011) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 

@@ -1,8 +1,7 @@
 ---
 title: Pine Warbler
+subtitle: Setophaga pinus
 ---
-
-<h2>Setophaga pinus (<em>Paruline des pins</em>)</h2>
 
 The population size of Pine Warbler in the Ring of Fire region was 0.018 (0.002, 0.03) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 

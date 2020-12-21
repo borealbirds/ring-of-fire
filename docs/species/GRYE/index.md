@@ -1,8 +1,7 @@
 ---
 title: Greater Yellowlegs
+subtitle: Tringa melanoleuca
 ---
-
-<h2>Tringa melanoleuca (<em>Grand Chevalier</em>)</h2>
 
 The population size of Greater Yellowlegs in the Ring of Fire region was 0.553 (0.39, 0.735) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 

@@ -1,8 +1,7 @@
 ---
 title: Eastern Bluebird
+subtitle: Sialia sialis
 ---
-
-<h2>Sialia sialis (<em>Merlebleu de l'Est</em>)</h2>
 
 The population size of Eastern Bluebird in the Ring of Fire region was 0.132 (0.067, 0.206) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 

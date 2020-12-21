@@ -1,8 +1,7 @@
 ---
 title: Eastern Wood-Pewee
+subtitle: Contopus virens
 ---
-
-<h2>Contopus virens (<em>Pioui de l'Est</em>)</h2>
 
 The population size of Eastern Wood-Pewee in the Ring of Fire region was 0.048 (0.03, 0.064) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 

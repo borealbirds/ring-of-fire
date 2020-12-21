@@ -1,8 +1,7 @@
 ---
 title: Eastern Kingbird
+subtitle: Tyrannus tyrannus
 ---
-
-<h2>Tyrannus tyrannus (<em>Tyran tritri</em>)</h2>
 
 The population size of Eastern Kingbird in the Ring of Fire region was 0.077 (0.05, 0.115) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 

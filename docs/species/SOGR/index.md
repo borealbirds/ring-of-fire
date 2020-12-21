@@ -1,8 +1,7 @@
 ---
 title: Sooty Grouse
+subtitle: Dendragapus fuliginosus
 ---
-
-<h2>Dendragapus fuliginosus (<em>T&amp;eacute;tras fuligineux</em>)</h2>
 
 The population size of Sooty Grouse in the Ring of Fire region was 0 (0, 0) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 

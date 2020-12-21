@@ -1,8 +1,7 @@
 ---
 title: Golden-crowned Sparrow
+subtitle: Zonotrichia atricapilla
 ---
-
-<h2>Zonotrichia atricapilla (<em>Bruant &amp;agrave; couronne dor&amp;eacute;e</em>)</h2>
 
 The population size of Golden-crowned Sparrow in the Ring of Fire region was 0 (0, 0) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 

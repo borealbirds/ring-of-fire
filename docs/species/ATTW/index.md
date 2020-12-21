@@ -1,8 +1,7 @@
 ---
 title: American Three-toed Woodpecker
+subtitle: Picoides dorsalis
 ---
-
-<h2>Picoides dorsalis (<em>Pic &amp;agrave; dos ray&amp;eacute;</em>)</h2>
 
 The population size of American Three-toed Woodpecker in the Ring of Fire region was 0.02 (0, 0.091) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 

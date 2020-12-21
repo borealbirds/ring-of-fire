@@ -1,8 +1,7 @@
 ---
 title: Horned Lark
+subtitle: Eremophila alpestris
 ---
-
-<h2>Eremophila alpestris (<em>Alouette hausse-col</em>)</h2>
 
 The population size of Horned Lark in the Ring of Fire region was 0.004 (0.001, 0.008) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 

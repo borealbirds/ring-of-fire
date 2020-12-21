@@ -1,8 +1,7 @@
 ---
 title: Yellow-rumped Warbler
+subtitle: Setophaga coronata
 ---
-
-<h2>Setophaga coronata (<em>Paruline &amp;agrave; croupion jaune</em>)</h2>
 
 The population size of Yellow-rumped Warbler in the Ring of Fire region was 19.419 (18.345, 21.234) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 

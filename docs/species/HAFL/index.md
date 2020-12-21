@@ -1,8 +1,7 @@
 ---
 title: Hammond's Flycatcher
+subtitle: Empidonax hammondii
 ---
-
-<h2>Empidonax hammondii (<em>Moucherolle de Hammond</em>)</h2>
 
 The population size of Hammond's Flycatcher in the Ring of Fire region was 0 (0, 0) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 

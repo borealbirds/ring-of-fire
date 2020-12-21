@@ -1,8 +1,7 @@
 ---
 title: Lincoln's Sparrow
+subtitle: Melospiza lincolnii
 ---
-
-<h2>Melospiza lincolnii (<em>Bruant de Lincoln</em>)</h2>
 
 The population size of Lincoln's Sparrow in the Ring of Fire region was 9.961 (8.486, 11.716) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 

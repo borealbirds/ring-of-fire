@@ -1,8 +1,7 @@
 ---
 title: Blackpoll Warbler
+subtitle: Setophaga striata
 ---
-
-<h2>Setophaga striata (<em>Paruline ray&amp;eacute;e</em>)</h2>
 
 The population size of Blackpoll Warbler in the Ring of Fire region was 2.362 (1.468, 3.134) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 

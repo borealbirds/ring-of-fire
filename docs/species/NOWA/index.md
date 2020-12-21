@@ -1,8 +1,7 @@
 ---
 title: Northern Waterthrush
+subtitle: Parkesia noveboracensis
 ---
-
-<h2>Parkesia noveboracensis (<em>Paruline des ruisseaux</em>)</h2>
 
 The population size of Northern Waterthrush in the Ring of Fire region was 4.126 (3.665, 4.64) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 

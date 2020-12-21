@@ -1,8 +1,7 @@
 ---
 title: Common Yellowthroat
+subtitle: Geothlypis trichas
 ---
-
-<h2>Geothlypis trichas (<em>Paruline masqu&amp;eacute;e</em>)</h2>
 
 The population size of Common Yellowthroat in the Ring of Fire region was 3.917 (3.281, 4.484) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 

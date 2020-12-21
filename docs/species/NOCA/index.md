@@ -1,8 +1,7 @@
 ---
 title: Northern Cardinal
+subtitle: Cardinalis cardinalis
 ---
-
-<h2>Cardinalis cardinalis (<em>Cardinal rouge</em>)</h2>
 
 The population size of Northern Cardinal in the Ring of Fire region was 0.001 (0, 0.002) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 

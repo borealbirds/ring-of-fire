@@ -1,8 +1,7 @@
 ---
 title: Philadelphia Vireo
+subtitle: Vireo philadelphicus
 ---
-
-<h2>Vireo philadelphicus (<em>Vir&amp;eacute;o de Philadelphie</em>)</h2>
 
 The population size of Philadelphia Vireo in the Ring of Fire region was 1.567 (1.33, 1.977) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 

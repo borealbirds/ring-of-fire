@@ -1,8 +1,7 @@
 ---
 title: Indigo Bunting
+subtitle: Passerina cyanea
 ---
-
-<h2>Passerina cyanea (<em>Passerin indigo</em>)</h2>
 
 The population size of Indigo Bunting in the Ring of Fire region was 0.021 (0.009, 0.035) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 

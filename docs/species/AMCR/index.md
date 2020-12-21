@@ -1,8 +1,7 @@
 ---
 title: American Crow
+subtitle: Corvus brachyrhynchos
 ---
-
-<h2>Corvus brachyrhynchos (<em>Corneille d'Am&amp;eacute;rique</em>)</h2>
 
 The population size of American Crow in the Ring of Fire region was 0.968 (0.847, 1.074) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 

@@ -1,8 +1,7 @@
 ---
 title: Pileated Woodpecker
+subtitle: Dryocopus pileatus
 ---
-
-<h2>Dryocopus pileatus (<em>Grand Pic</em>)</h2>
 
 The population size of Pileated Woodpecker in the Ring of Fire region was 0.242 (0.194, 0.283) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 

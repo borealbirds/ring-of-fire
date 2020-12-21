@@ -1,8 +1,7 @@
 ---
 title: Willow Ptarmigan
+subtitle: Lagopus lagopus
 ---
-
-<h2>Lagopus lagopus (<em>Lagop&amp;egrave;de des saules</em>)</h2>
 
 The population size of Willow Ptarmigan in the Ring of Fire region was 0.001 (0, 0.004) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 

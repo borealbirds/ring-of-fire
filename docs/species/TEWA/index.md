@@ -1,8 +1,7 @@
 ---
 title: Tennessee Warbler
+subtitle: Oreothlypis peregrina
 ---
-
-<h2>Oreothlypis peregrina (<em>Paruline obscure</em>)</h2>
 
 The population size of Tennessee Warbler in the Ring of Fire region was 7.26 (6.63, 7.981) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 

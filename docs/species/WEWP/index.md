@@ -1,8 +1,7 @@
 ---
 title: Western Wood-Pewee
+subtitle: Contopus sordidulus
 ---
-
-<h2>Contopus sordidulus (<em>Pioui de l'Ouest</em>)</h2>
 
 The population size of Western Wood-Pewee in the Ring of Fire region was 0 (0, 0) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 

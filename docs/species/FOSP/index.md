@@ -1,8 +1,7 @@
 ---
 title: Fox Sparrow
+subtitle: Passerella iliaca
 ---
-
-<h2>Passerella iliaca (<em>Bruant fauve</em>)</h2>
 
 The population size of Fox Sparrow in the Ring of Fire region was 3.054 (2.609, 3.383) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 

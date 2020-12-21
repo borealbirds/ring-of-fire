@@ -1,8 +1,7 @@
 ---
 title: Mountain Bluebird
+subtitle: Sialia currucoides
 ---
-
-<h2>Sialia currucoides (<em>Merlebleu azur&amp;eacute;</em>)</h2>
 
 The population size of Mountain Bluebird in the Ring of Fire region was 0 (0, 0) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 

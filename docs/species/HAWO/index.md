@@ -1,8 +1,7 @@
 ---
 title: Hairy Woodpecker
+subtitle: Picoides villosus
 ---
-
-<h2>Picoides villosus (<em>Pic chevelu</em>)</h2>
 
 The population size of Hairy Woodpecker in the Ring of Fire region was 0.683 (0.513, 0.842) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 

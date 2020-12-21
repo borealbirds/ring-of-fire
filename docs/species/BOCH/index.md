@@ -1,8 +1,7 @@
 ---
 title: Boreal Chickadee
+subtitle: Poecile hudsonicus
 ---
-
-<h2>Poecile hudsonicus (<em>M&amp;eacute;sange &amp;agrave; t&amp;ecirc;te brune</em>)</h2>
 
 The population size of Boreal Chickadee in the Ring of Fire region was 3.542 (2.668, 4.54) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 

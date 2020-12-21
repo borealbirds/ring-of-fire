@@ -1,8 +1,7 @@
 ---
 title: Red-eyed Vireo
+subtitle: Vireo olivaceus
 ---
-
-<h2>Vireo olivaceus (<em>Vir&amp;eacute;o aux yeux rouges</em>)</h2>
 
 The population size of Red-eyed Vireo in the Ring of Fire region was 7.179 (6.464, 7.796) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 

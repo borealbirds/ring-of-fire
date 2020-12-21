@@ -1,8 +1,7 @@
 ---
 title: Blue-gray Gnatcatcher
+subtitle: Polioptila caerulea
 ---
-
-<h2>Polioptila caerulea (<em>Gobemoucheron gris-bleu</em>)</h2>
 
 The population size of Blue-gray Gnatcatcher in the Ring of Fire region was 0 (0, 0) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 

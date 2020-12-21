@@ -1,8 +1,7 @@
 ---
 title: Purple Finch
+subtitle: Carpodacus purpureus
 ---
-
-<h2>Carpodacus purpureus (<em>Roselin pourpr&amp;eacute;</em>)</h2>
 
 The population size of Purple Finch in the Ring of Fire region was 1.64 (0.96, 2.615) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 

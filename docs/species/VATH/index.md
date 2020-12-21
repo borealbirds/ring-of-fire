@@ -1,8 +1,7 @@
 ---
 title: Varied Thrush
+subtitle: Ixoreus naevius
 ---
-
-<h2>Ixoreus naevius (<em>Grive &amp;agrave; collier</em>)</h2>
 
 The population size of Varied Thrush in the Ring of Fire region was 0 (0, 0) million individuals based on the [BAM National Models](https://dx.doi.org/10.5281/zenodo.4018335).
 
