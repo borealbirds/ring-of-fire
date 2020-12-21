@@ -1,0 +1,23 @@
+title: "Ring of Fire BAM Model Summaries"
+description: "Boreal bird models in the Ring of Fire region by the Boreal Avian Modelling Project"
+
+baseurl: https://borealbirds.github.io/ring-of-fire
+
+include: [".htaccess"]
+exclude: ["README.md", "LICENSE.md", "rof.Rproj"]
+timezone: America/Edmonton
+
+encoding: UTF-8
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+author: "Boreal Avian Modelling Project"
+
+#categories: ["Etc", "Talks", "Papers", "Code", "Tutorials"]
+
+gems:
+  - jekyll-feed
+  - jekyll-sitemap
