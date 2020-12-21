@@ -7,7 +7,7 @@ The population size of Ruffed Grouse in the Ring of Fire region was 0.392 (0.307
 
 # Maps
 
-Mean density (males per ha) is the average of 32 bootstrap based prediction maps. The same maps were used to calculat standard deviation (same units as mean) that represent bootstrap uncertainty of the density estimates.
+Mean density (males per ha) is the average of 32 bootstrap based prediction maps.
 
 ![Distribution map]({{ site.baseurl }}/species/RUGR/map.png)
 

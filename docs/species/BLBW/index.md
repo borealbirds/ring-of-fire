@@ -7,7 +7,7 @@ The population size of Blackburnian Warbler in the Ring of Fire region was 1.385
 
 # Maps
 
-Mean density (males per ha) is the average of 32 bootstrap based prediction maps. The same maps were used to calculat standard deviation (same units as mean) that represent bootstrap uncertainty of the density estimates.
+Mean density (males per ha) is the average of 32 bootstrap based prediction maps.
 
 ![Distribution map]({{ site.baseurl }}/species/BLBW/map.png)
 

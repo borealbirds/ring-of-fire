@@ -7,7 +7,7 @@ The population size of Black-billed Cuckoo in the Ring of Fire region was 0.077 
 
 # Maps
 
-Mean density (males per ha) is the average of 32 bootstrap based prediction maps. The same maps were used to calculat standard deviation (same units as mean) that represent bootstrap uncertainty of the density estimates.
+Mean density (males per ha) is the average of 32 bootstrap based prediction maps.
 
 ![Distribution map]({{ site.baseurl }}/species/BBCU/map.png)
 

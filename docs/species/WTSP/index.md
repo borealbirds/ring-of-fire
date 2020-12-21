@@ -7,7 +7,7 @@ The population size of White-throated Sparrow in the Ring of Fire region was 19.
 
 # Maps
 
-Mean density (males per ha) is the average of 32 bootstrap based prediction maps. The same maps were used to calculat standard deviation (same units as mean) that represent bootstrap uncertainty of the density estimates.
+Mean density (males per ha) is the average of 32 bootstrap based prediction maps.
 
 ![Distribution map]({{ site.baseurl }}/species/WTSP/map.png)
 

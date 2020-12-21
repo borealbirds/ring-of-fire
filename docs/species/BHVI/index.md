@@ -7,7 +7,7 @@ The population size of Blue-headed Vireo in the Ring of Fire region was 1.9 (1.6
 
 # Maps
 
-Mean density (males per ha) is the average of 32 bootstrap based prediction maps. The same maps were used to calculat standard deviation (same units as mean) that represent bootstrap uncertainty of the density estimates.
+Mean density (males per ha) is the average of 32 bootstrap based prediction maps.
 
 ![Distribution map]({{ site.baseurl }}/species/BHVI/map.png)
 

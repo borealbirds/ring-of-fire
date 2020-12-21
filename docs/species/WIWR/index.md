@@ -7,7 +7,7 @@ The population size of Winter Wren in the Ring of Fire region was 3.734 (3.239, 
 
 # Maps
 
-Mean density (males per ha) is the average of 32 bootstrap based prediction maps. The same maps were used to calculat standard deviation (same units as mean) that represent bootstrap uncertainty of the density estimates.
+Mean density (males per ha) is the average of 32 bootstrap based prediction maps.
 
 ![Distribution map]({{ site.baseurl }}/species/WIWR/map.png)
 

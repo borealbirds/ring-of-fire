@@ -7,7 +7,7 @@ The population size of Mourning Warbler in the Ring of Fire region was 2.841 (2.
 
 # Maps
 
-Mean density (males per ha) is the average of 32 bootstrap based prediction maps. The same maps were used to calculat standard deviation (same units as mean) that represent bootstrap uncertainty of the density estimates.
+Mean density (males per ha) is the average of 32 bootstrap based prediction maps.
 
 ![Distribution map]({{ site.baseurl }}/species/MOWA/map.png)
 

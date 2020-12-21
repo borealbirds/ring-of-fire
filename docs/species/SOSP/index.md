@@ -7,7 +7,7 @@ The population size of Song Sparrow in the Ring of Fire region was 1.715 (1.502,
 
 # Maps
 
-Mean density (males per ha) is the average of 32 bootstrap based prediction maps. The same maps were used to calculat standard deviation (same units as mean) that represent bootstrap uncertainty of the density estimates.
+Mean density (males per ha) is the average of 32 bootstrap based prediction maps.
 
 ![Distribution map]({{ site.baseurl }}/species/SOSP/map.png)
 
