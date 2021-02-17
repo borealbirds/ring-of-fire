@@ -66,6 +66,9 @@ l1$maxdur <- as.numeric(sapply(strsplit(as.character(l1[,2]), "-"), function(z) 
 l2 <- read.csv("d:\\bam\\2021\\rof\\BAM-V6\\lu_pc_protocol_distance.txt")
 l2$maxdis <- as.numeric( sapply(strsplit(as.character(l2[,2]), "-"), function(z) z[length(z)]))
 
+compare_sets(vi$PKEY_V4, dt$PKEY)
+compare_sets(vi$PKEY_V6, dt$PKEY_V6)
+
 y2 <- Xtab(abundance ~ PKEY + species_code, dt)
 x2 <- data.frame(vi, ss[match(vi$location_name_4, ss$SS_V4),])
 rownames(x2) <- x2$PKEY_V4
@@ -109,7 +112,7 @@ tmp <- data.frame(
     dur=x2$maxdur,
     dis=x2$maxdis)
 rownames(tmp) <- rownames(x2)
-tmp <- tmp[rowSums(is.na(tmp))==0,]
+#tmp <- tmp[!is.na(tmp$lat) & !is.na(tmp$lon),]
 
 x2off <- make_x(
     dt=tmp$dt,
