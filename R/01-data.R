@@ -39,7 +39,6 @@ x1off <- make_x(
     dur=3,
     dis=Inf)
 rownames(x1off) <- rownames(x1)
-str(x)
 summary(x1off)
 
 
@@ -58,5 +57,88 @@ str(o1)
 sum(is.na(o1))
 
 ## BAM V6
-library(data.table)
+
+ss <- read.csv("d:\\bam\\2021\\rof\\BAM-V6\\location.txt")
+vi <- read.csv("d:\\bam\\2021\\rof\\BAM-V6\\pc_visit.txt")
+dt <- read.csv("d:\\bam\\2021\\rof\\BAM-V6\\pc_detection.txt")
+l1 <- read.csv("d:\\bam\\2021\\rof\\BAM-V6\\lu_pc_protocol_duration.txt")
+l1$maxdur <- as.numeric(sapply(strsplit(as.character(l1[,2]), "-"), function(z) z[length(z)]))
+l2 <- read.csv("d:\\bam\\2021\\rof\\BAM-V6\\lu_pc_protocol_distance.txt")
+l2$maxdis <- as.numeric( sapply(strsplit(as.character(l2[,2]), "-"), function(z) z[length(z)]))
+
+y2 <- Xtab(abundance ~ PKEY + species_code, dt)
+x2 <- data.frame(vi, ss[match(vi$location_name_4, ss$SS_V4),])
+rownames(x2) <- x2$PKEY_V4
+compare_sets(rownames(y2), rownames(x2))
+
+x2 <- x2[rownames(y2),]
+x2$maxdur <- l1$maxdur[match(x2$protocol_duration, l1$protocol_duration_id)]
+x2$maxdis <- l2$maxdis[match(x2$protocol_distance, l2$protocol_distance_numid)]
+
+tmp <- strsplit(as.character(x2$survey_time), " ")
+table(sapply(tmp, length))
+tt <- as.character(x2$survey_time)
+tt[sapply(tmp, length) < 2] <- NA
+tt <- as.POSIXlt(tt)
+hr <- tt$hour
+mn <- tt$min
+tm <- paste0(
+  ifelse(hr < 10, "0", ""),
+  hr,
+  ":",
+  ifelse(mn < 10, "0", ""),
+  mn
+)
+tm[is.na(tt)] <- NA
+summary(nchar(tm))
+
+x2$longitude[x2$longitude > -40] <- NA
+x2$latitude[x2$latitude < 30] <- NA
+
+x2$longitude[x2$longitude < -163.89] <- -163.89
+x2$latitude[x2$latitude > 68.98] <- 68.98
+summary(x2$longitude)
+summary(x2$latitude)
+
+
+tmp <- data.frame(
+    dt=as.Date(x2$survey_date),
+    tm=tm,
+    lon=x2$longitude,
+    lat=x2$latitude,
+    dur=x2$maxdur,
+    dis=x2$maxdis)
+rownames(tmp) <- rownames(x2)
+tmp <- tmp[rowSums(is.na(tmp))==0,]
+
+x2off <- make_x(
+    dt=tmp$dt,
+    tm=tmp$tm,
+    lon=tmp$lon,
+    lat=tmp$lat,
+    dur=tmp$dur,
+    dis=tmp$dis)
+rownames(x2off) <- rownames(tmp)
+summary(x2off)
+
+
+s2 <- intersect(colnames(y2), getBAMspecieslist())
+
+o2 <- matrix(0, nrow(x2off), length(s2))
+rownames(o2) <- rownames(x2off)
+colnames(o2) <- s2
+
+for (spp in s2) {
+  cat(spp, "\n")
+  flush.console()
+  o2[,spp] <- make_off(spp, x2off)$offset
+}
+str(o2)
+sum(is.na(o2))
+
+save(y1, x1, x1off, o1,
+  y2, x2, x2off, o2,
+  file="d:\\bam\\2021\\rof\\BAMv6_ONBBS.RData")
+
+
 
