@@ -60,24 +60,25 @@
         font-size: 0.8rem;
       }
     </style>
+    <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.8.0/dist/alpine.min.js" defer></script>
   </head>
 
   <body>
     <!-- START NAV -->
-    <nav class="navbar">
+    <nav class="navbar" x-data="{ openNav: false }">
       <div class="container">
         <div class="navbar-brand">
           <a class="navbar-item is-size-5 has-text-weight-semibold" href="{{ site.baseurl }}">
-            <img src="https://borealbirds.github.io/logo.svg" alt="Logo" />
-            &nbsp;Ring of Fire BAM Summaries
+            <img src="{{ site.baseurl }}/images/soosiana-logo.svg" alt="Logo" />
+            &nbsp;Soosiana
           </a>
-          <span class="navbar-burger burger" data-target="navbarMenu">
-            <span></span>
-            <span></span>
-            <span></span>
-          </span>
+          <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navMenu" :class="{ 'is-active': openNav }" x-on:click="openNav = !openNav">
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+          </a>
         </div>
-        <div id="navbarMenu" class="navbar-menu">
+        <div id="navbarMenu" class="navbar-menu" :class="{ 'is-active': openNav }">
           <div class="navbar-end">
             <a
               class="navbar-item is-size-5 has-text-weight-semibold"
@@ -87,15 +88,21 @@
             </a>
             <a
               class="navbar-item is-size-5 has-text-weight-semibold"
-              href="{{ site.baseurl }}/species/"
+              href="{{ site.baseurl }}/issues/"
             >
-              Species
+              Issues
             </a>
             <a
               class="navbar-item is-size-5 has-text-weight-semibold"
-              href="{{ site.baseurl }}/download/"
+              href="{{ site.baseurl }}/instructions/"
             >
-              Download
+              Instructions
+            </a>
+            <a
+              class="navbar-item is-size-5 has-text-weight-semibold"
+              href="{{ site.baseurl }}/about/"
+            >
+              About
             </a>
           </div>
         </div>
@@ -126,15 +133,13 @@
     <footer class="footer">
       <div class="content has-text-centered">
         <p>
-          &copy; 2020
-          <a href="https://borealbirds.ualberta.ca/"
-            >Boreal Avian Modelling Project</a
+          &copy; 2021
+          <a href="https://mamat.hu/"
+            >Hungarian Malacology Society (MAMAT)</a
           >
-          under a
-          <a href="https://creativecommons.org/licenses/by-sa/4.0/"
-            >CC BY-SA 4.0 license</a
-          >, source code is licensed
-          <a href="https://opensource.org/licenses/GPL-2.0">GPL-2</a>
+          under a Attribution 4.0 International
+          (<a href="https://creativecommons.org/licenses/by/4.0/"
+            >CC BY 4.0</a>)
         </p>
       </div>
     </footer>
